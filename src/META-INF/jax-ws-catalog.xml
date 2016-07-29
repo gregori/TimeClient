@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://127.0.0.1:9876/ts?wsdl" uri="wsdl/127.0.0.1_9876/ts.wsdl"/>
+    <system systemId="http://127.0.0.1:9876/ts?wsdl=1" uri="wsdl/127.0.0.1_9876/ts.wsdl_1.wsdl"/>
+</catalog>
